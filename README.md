@@ -39,8 +39,4 @@ In this project, we build an etl pipeline to fetch data from yelp API and insert
 
 Link: [API to Postgres](https://github.com/san089/Udacity-Data-Engineering-Projects/tree/master/Data_Api_to_Postgres)
 
-## CAPSTONE PROJECT
-Udacity provides their own crafted Capstone project with dataset that include data on immigration to the United States, and supplementary datasets that include data on airport codes, U.S. city demographics, and temperature data.
-  
-I worked on my own open-ended project. <br />
-Here is the link - [goodreads_etl_pipeline](https://github.com/san089/goodreads_etl_pipeline)
+
